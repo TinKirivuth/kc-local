@@ -1,0 +1,230 @@
++++++++++++++++++++++++++++++
+1- Menu Type
+	- ID
+	- OD
+	- title_kh
+	- title_en
+	- icon
+	- image
+	- UID
+	- created_date
+	- Is_disable
+	- Name_link
++++++++++++++++++++++++++++++
+2- Menu
+	- ID
+	- OD
+	- MID
+	- title_kh
+	- title_en
+	- icon
+	- image
+	- UID
+	- created_date
+	- is_disable
+	- name_link
+3- Product & Service
+	- ID
+	- OD
+	- icon
+	- name_kh
+	- name_en
+	- des_kh
+	- des_en
+	- content_kh
+	- content_en
+	- term_con_kh
+	- term_con_en
+	- doc_require_kh
+	- doc_require_en
+	- is_slide
+	- slide_title_kh
+	- slide_tile_en
+	- slide_text_kh
+	- slide_text_en
+	- slide_image
+	- UID
+	- created_date
+	- is_disable
+	- name_link
+4- Company Profile
+	- ID,
+	- OD,
+	- ComTitleKH,
+	- ComTitleEN,
+	- ComDesKH,
+	- ComDesEN,
+	- MisTitleKH,
+	- MisTitleEN,
+	- MisDesKH,
+	- MisDesEN,
+	- ViTitleKH,
+	- ViTitleEN,
+	- ViDesKH,
+	- ViDesEN,
+	- image
+	- UID
+	- created_date
+	- IsDisable
+	- Name_link
+5- Management Team
+	- ID,
+	- OD
+	- Title_Kh
+	- Title_En
+	- PositionKh
+	- PositionEn
+	- Email
+	- Phone1
+	- Phone2
+	- Other
+	- Image
+	- UID
+	- created_date
+	- Is_Disable
+	- Name_Link
+6- Photo Gallery
+	- ID,
+	- OD,
+	- Title_KH,
+	- Title_En,
+	- Des_Kh,
+	- Des_En,
+	- Image,
+	- UID
+	- created_date
+	- Is_Disable,
+	- name_link
+6.1- PhotoDetail
+	- ID,
+	- OD,
+	- GID,
+	- Image,
+7- Public Holiday
+	- ID,
+	- OD
+	- date_kh
+	- date_en
+	- title_kh
+	- title_en
+	- image
+	- UID
+	- created_date
+	- Is_Disable
+	- Name_link
+8- News
+	- ID,
+	- OD,
+	- title_kh
+	- Title_en
+	- des_kh
+	- des_en
+	- image
+	- num_of_view
+	- UID
+	- created_date
+	- Is_Disable,
+	- Name_link
+9- Job Opportunity, Intrship, Volunteer
+	- ID
+	- OD
+	- position_kh
+	- position_en
+	- des_kh
+	- des_en
+	- location_kh
+	- location_en
+	- duties_and_respon_kh
+	- duties_and_respon_en
+	- skill_and_specification_kh
+	- skill_and_specification_en
+	- how_to_apply_kh
+	- how_to_apply_en
+	- post_date
+	- close_date
+	- type_id 
+	- number_of_view
+	- UID
+	- created_date
+	- is_Disable
+	- name_link
+10-Contact
+	- ID
+	- OD
+	- content_kh
+	- content_en
+	- created_date
+	- UID
+	- is_disable
+	- Name_link
+11-content_banner
+	- id
+	- od
+	- mid	
+	- title_kh
+	- title_en
+	- content_kh
+	- content_en
+	- image
+	- uid
+	- created_date
+	- is_disable
+	- name_link
+12- Personal Information
+	- ID
+	- OD
+	- Name_kh
+	- Name_en
+	- footer_kh
+	- footer_en
+	- logo
+	- image_footer
+	- UID
+	- created_date
+	- is_disable
+	- name_link
+
+
++++++++++++++++++++++++
+==== Process Flow =====
++++++++++++++++++++++++
+
+if mid=0{
+	home
+}else if mid=1{
+	company profile
+}else if mid=2{
+	management team
+}else if mid=3{
+	business loan
+}else if mid=4{
+	SME laon
+}else if mid=5{
+	Consumer loan
+}else if mid=6{
+	housing loan
+}else if mid=7{
+	personal loan
+}eles if mid=8{
+	student loan
+}else if mid=9{
+	condo loan
+}else if mid=10{
+	photo gallery
+}else if mid=11{
+	public holiday
+}else if mid=12{
+	news
+}else if mid=13{
+	job opportunity
+}eles if mid=14{
+	internship
+}else if mid=15{
+	volunteer
+}eles if mid=16{
+	contact
+}else{
+	No content here...
+}
+
+	

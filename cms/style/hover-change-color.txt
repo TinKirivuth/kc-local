@@ -1,0 +1,16 @@
+//mouseover change background colro
+// $('.left-menu').on('mouseover','ul li',function(){
+// 	var eThis=$(this);
+// 	var color=eThis.data('color');
+// 	eThis.css({'background-color':color});
+// 	eThis.css({'color':'white'});
+// 	eThis.css({'cursor':'pointer'});
+// });
+//mouseout change background color
+// $('.left-menu').on('mouseout','ul li',function(){
+// 	var eThis=$(this);
+// 	var color='white';
+// 	eThis.css({'background-color':color});
+// 	eThis.css({'color':'black'});
+// 	eThis.css({'cursor':'none'});
+// });

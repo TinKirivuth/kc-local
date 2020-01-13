@@ -1,0 +1,18 @@
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/khmeryns/public_html/demo/cms/db/database.php on line 19
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 20
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/khmeryns/public_html/demo/cms/db/database.php on line 65
+[23-Dec-2019 08:09:21 Asia/Phnom_Penh] PHP Notice:  Trying to get property of non-object in /home/khmeryns/public_html/demo/cms/db/database.php on line 66
